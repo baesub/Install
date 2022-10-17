@@ -68,6 +68,8 @@ iex "& {$(irm get.scoop.sh)} -RunAsAdmin"
 
 You can redirect all outputs to Out-Null or a log file to silence the installer. And you can use `$LASTEXITCODE` to check the installation result, it will be `0` when the installation success.
 
+## Portfolio Website -<a href="baesub.github.io ">Github</a> or - <a href="https://bsb718.netlify.app/">Netlify</a>
+
 ```powershell
 # Omit outputs
 .\install.ps1 [-Parameters ...] | Out-Null
